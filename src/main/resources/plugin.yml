@@ -1,0 +1,7 @@
+name: Main
+version: '${project.version}'
+main: me.vrom.main.Main
+api-version: 1.18
+authors: [ Vrom ]
+description: PlayerImmunity
+website: github.com/AarushKiller
